@@ -7,7 +7,7 @@
 </h3>
 <p align="center" style='margin: 16px 4px 32px;'>
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg](https://en.wikipedia.org/wiki/File:Angular_full_color_logo.svg)" alt="angular" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
   </a>
     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
