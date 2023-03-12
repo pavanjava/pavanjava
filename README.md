@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pavan Mantha, I'm an Application Arrchitect in cloud technologies and Full Stack Software Engineer by passion and a technology enthusiast by choice living in India.
 - 👀 I’m interested in MACHINE LEARNING & DATA SCIENCE
 - 🌱 I’m currently pursuing MTech in Data Science
+- 👀 Author @<a href="https://medium.com/@manthapavankumar11" taregt="_blank">Medium Articles</a>
 - 💞️ I’m looking to collaborate on any Data Science, Cloud Technologies [Prefered Azure] & Full stack Development
 - <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools Known:
