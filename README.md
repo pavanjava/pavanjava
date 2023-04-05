@@ -112,6 +112,13 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Pandas" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+  
 </p>
 
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
