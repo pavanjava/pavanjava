@@ -3,7 +3,7 @@
 - 🌱 Pursuing PhD in Generative AI, from Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool.
 - 🌱 I Completed MTech in Data Science from BITS, pilani.
 - 👀 Author @<a href="https://medium.com/@manthapavankumar11" taregt="_blank">Medium Articles</a>
-- 💞️ I’m looking to collaborate on any Data Science, Cloud Technologies [Prefered Azure] & Full stack Development
+- 💞️ I’m looking to collaborate on any AI, Generative AI, Data Science, Cloud Technologies [Prefered Azure] & Full stack Development
 - <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools Known:
 </h3>
