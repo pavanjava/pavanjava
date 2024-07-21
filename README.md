@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Pavan Mantha, I'm an Application Arrchitect in cloud technologies, Full Stack Software Engineer & Data Scientist by profession, Techical Blogger and a Teacher by passion and a technology enthusiast by choice living in India.
-- 👀 I’m interested in CLOUD, DATA SCIENCE & MACHINE LEARNING
+- 👋 Hi, I’m @Pavan Mantha, I'm an Lead Software Engineer in AI and Generative AI, Data Scientist, Lead Architect in cloud technologies and Full Stack Software Engineer by profession, Published author, writer and a Speaker by passion and a technology enthusiast by choice living in India.
+- 👀 I’m interested in AI, MACHINE LEARNING, NLP, DATA SCIENCE & CLOUD.
+- 🌱 Pursuing PhD in Generative AI, from Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool.
 - 🌱 I Completed MTech in Data Science from BITS, pilani.
 - 👀 Author @<a href="https://medium.com/@manthapavankumar11" taregt="_blank">Medium Articles</a>
 - 💞️ I’m looking to collaborate on any Data Science, Cloud Technologies [Prefered Azure] & Full stack Development
