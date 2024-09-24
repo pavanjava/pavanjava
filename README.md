@@ -129,14 +129,6 @@
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanjava&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=pavanjava&show_icons=true&locale=en&theme=gruvbox" alt="pavanjava" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanjava&theme=gruvbox" alt="pavanjava" />
 </p>
 
