@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pavan Mantha, I'm a Lead Software Engineer in AI and Generative AI, Data Scientist, Lead Architect in cloud technologies and Full Stack Software Engineer by profession, Published author, writer and a Speaker by passion and a technology enthusiast by choice living in India.
+- 👋 Hi, I’m @Pavan Mantha, I'm a Distinguished AI Architect and profficient at Generative AI, Machine Learning, Deep Learning, Data Science, cloud technologies and Full Stack Software Engineer by profession, Published author, writer and a Speaker by passion and a technology enthusiast by choice living in India.
 - 👀 I’m interested in AI, MACHINE LEARNING, NLP, DATA SCIENCE & CLOUD.
 - 🌱 Pursuing PhD in Generative AI, from Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool.
 - 🌱 I Completed MTech in Data Science from BITS, pilani.
