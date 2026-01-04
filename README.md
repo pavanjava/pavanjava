@@ -130,7 +130,6 @@
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pavanjava&theme=meta-dark" alt="pavanjava" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pavanjava?theme=tokyonight&show_icons=true" alt="stats" />
 </p>
-
-![Profile Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavanjava?theme=tokyonight)  
 
