@@ -129,7 +129,7 @@
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanjava&theme=gruvbox" alt="pavanjava" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pavanjava&theme=meta-dark" alt="pavanjava" />
 </p>
 
 ![Profile Stats](https://activity-graph.herokuapp.com/graph?username=pavanjava&theme=chartreuse-dark)  
