@@ -132,5 +132,5 @@
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pavanjava&theme=meta-dark" alt="pavanjava" />
 </p>
 
-![Profile Stats](https://activity-graph.herokuapp.com/graph?username=pavanjava&theme=chartreuse-dark)  
+![Profile Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavanjava?theme=tokyonight)  
 
